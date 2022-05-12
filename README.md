@@ -21,6 +21,9 @@ Boilr
 
 For more details, see [Introduction](https://github.com/tmrts/boilr/wiki/Introduction) page.
 
+# Notes
+this is a fork of the original project, to get a build that works for `arm64` (M1 macs)
+
 # Features
 * **No dependencies (NodeJS, Python Interpreter etc.)** - Boilr is a single statically linked binary.
 Grab the one that fits your architecture, and you're all set to save time by using templates!
